@@ -1,0 +1,27 @@
+﻿<Page x:Class="kutuphane.hesap1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:kutuphane"
+      mc:Ignorable="d" 
+      d:DesignHeight="440" d:DesignWidth="875"
+      Title="hesap1">
+
+    <Grid Background="#FFCD5C08" Loaded="Grid_Loaded">
+        <Image HorizontalAlignment="Left" Source="C:\Users\user\Pictures\Camera Roll\person.png" x:Name="ımage" Height="162" Margin="41,25,0,0"  VerticalAlignment="Top" Width="172"/>
+        <Label Content="ad soyad                :" HorizontalAlignment="Left" Margin="218,38,0,0" VerticalAlignment="Top" Width="139" Foreground="White" FontSize="14"/>
+        <Label Content="puan                      :" HorizontalAlignment="Left" Margin="218,67,0,0" VerticalAlignment="Top" Width="139" Foreground="White" FontSize="14"/>
+        <Label Content="kiralnan kitap saısı :" HorizontalAlignment="Left" Margin="218,96,0,0" VerticalAlignment="Top" Width="139" Foreground="White" FontSize="14"/>
+        <Label Content="cinsiyet                   :" HorizontalAlignment="Left" Margin="218,125,0,0" VerticalAlignment="Top" Width="139" Foreground="White" FontSize="14"/>
+        <Label Content="Label" x:Name="ad_soyad_txt" HorizontalAlignment="Left" Margin="357,38,0,0" VerticalAlignment="Top" Foreground="White" FontSize="14"/>
+        <Label Content="Label" x:Name="puan_txt" HorizontalAlignment="Left" Margin="357,67,0,0" VerticalAlignment="Top" Foreground="White" FontSize="14"/>
+        <Label Content="Label" x:Name="kirl_ktp_txt" HorizontalAlignment="Left" Margin="357,96,0,0" VerticalAlignment="Top" Foreground="White" FontSize="14"/>
+        <Label Content="Label" x:Name="cinsiye_txt" HorizontalAlignment="Left" Margin="357,125,0,0" VerticalAlignment="Top" Foreground="White" FontSize="14"/>
+        <TextBox HorizontalAlignment="Left" x:Name="parola_txt"  Margin="68,245,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="108" FontSize="14"/>
+        <Label Content="Yeni parola :" HorizontalAlignment="Left" Margin="62,211,0,0" VerticalAlignment="Top" Background="{x:Null}" Foreground="White" FontSize="14"/>
+        <Button Content="Güncelle" HorizontalAlignment="Left" Margin="62,283,0,0" VerticalAlignment="Top" Height="46" Width="120" Click="Button_Click" Background="#FF6A9C89"/>
+
+
+    </Grid>
+</Page>
