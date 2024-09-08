@@ -4,6 +4,8 @@ diğer katmaları yükleyemdeğimden drive attım
 
 https://drive.google.com/drive/folders/1-VZD5xh109jsdjhP0ksAhmnm4tDeVi_w?usp=drive_link
 # fotograflar
+![Ekran görüntüsü 2024-09-09 020644](https://github.com/user-attachments/assets/d8770c26-154a-4a23-941a-867e783fe118)
+
 ![Ekran görüntüsü 2024-09-07 020322](https://github.com/user-attachments/assets/9c1ab549-1f20-4ba3-8e5c-9b34370bd1fb)
 
 ![Ekran görüntüsü 2024-09-07 021617](https://github.com/user-attachments/assets/0028c012-df92-4308-bfbf-e521ab105aae)
